@@ -56,6 +56,10 @@ Push to the GitHub repository
 	git branch -m main (renaming branch to main compatable with GitHub)
 	git push -u origin main
 	login
+
+finish
+
+
 	
 
 	
