@@ -1,0 +1,34 @@
+Git Work Flow
+
+Git Config 
+	git config --global user.name "your name" 
+	git config --global user.email "your.email@example.com"
+	git config --global --list
+
+Create Folder
+	right click, "show more options", open git bash here
+	git init (initialise the project folder into a git local folder)
+		(this will create a hidden folder)
+	git status
+
+Create File
+	echo "hello git!" >hello.txt
+	git status
+	git add hello.txt (to stage a specific file name type first few letter and tab)
+	git commit -m "added new file" (-m means message)
+	git log (presents details)
+	
+Modify the File and Track Changes
+	Edit File
+	git status (changes not staged for commit)
+	git diff (shows the differences)
+	git add . (stage all the changes) filename (for specific file)
+	git status (ready to be commited)
+	git commit -m "hello.txt"
+ 	git status (everything is commited)
+	git log (displays the commits)
+	
+
+	
+	
+	
