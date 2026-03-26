@@ -55,4 +55,29 @@ Push to the GitHub repository
 	git remote add origin (weblink from GitHub)
 	git branch -m main (renaming branch to main compatable with GitHub)
 	git push -u origin main
+<<<<<<< HEAD
 	login	
+=======
+	login
+
+finish
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+	
+>>>>>>> edit-1
