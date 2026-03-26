@@ -48,28 +48,11 @@ Create and Switch Branches
 	git checkout branchname (switch to new branch)
 	(make changes to file, whatever is changed will be only changed on current branch)
 	git checkout main (switch to main or master branch)
-	git merge branchname (now we have merged the branches)
+	git merge branchname (merges the changes to braches)
 	git branch -d branchname (-d means delete)
 
 Push to the GitHub repository 
 	git remote add origin (weblink from GitHub)
 	git branch -m main (renaming branch to main compatable with GitHub)
 	git push -u origin main
-	login
-	
-
-	
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-	
+	login	
